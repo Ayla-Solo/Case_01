@@ -727,4 +727,3 @@ draw_geo_shape()
 draw_robot_ship()
 
 screen.exitonclick()
-#dfghjk
